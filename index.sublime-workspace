@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"la",
+				"layout\t(AMP_firstemail.html)"
+			],
+			[
+				"line",
+				"line-height\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"w3",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"w",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"w3 va",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"vali",
+				"W3C Validators: Validate HTML 4.01 Transitional"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"va",
+				"W3C Validators: Validate HTML 4.01 Transitional"
+			],
+			[
+				"strip",
+				"StripHTML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"html",
+				"W3C Validators: Validate HTML 4.01 Transitional"
+			],
+			[
+				"val",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"u",
+				"Convert Case: Upper Case"
+			],
+			[
+				"W3",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"full",
+				"Code Folding: Unfold All"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"w3s",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"Lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"PRV:",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PRV: O",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"All",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install P",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BA00630/Desktop/BBB_test/bbb.html",
+		"/Users/BA00630/Desktop/BBB_test/test.html",
+		"/Users/BA00630/Desktop/Ana_Work/7.09 Kickoff/9.05 Nursery TrendAnimal/9.05_NURSERY_TREND_ANIMAL_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/1_JAN_2019/1.2 Kickoff/3.14_SMILE_FILLER/3.14_SMILE_FILLER_R2_DUAL.html",
+		"/Users/BA00630/Desktop/Ana_Work/7.01 Kickoff/8.23_ToysUnder50/8.23_BABY_TOYS_UNDER50_OMNI.html",
+		"/Users/BA00630/Desktop/BABY_CANADA/BABY_CAN_Template_header_footer_approved/BABY_CAN_Template_header_footer_JULY2019.html",
+		"/Users/BA00630/Desktop/BABY_CANADA/BABY_CAN_Template_header_footer_JULY2019.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.14_Deconstructed_HighChair/8.14_DECONSTRUCTED_HIGHCHAIR/8.14_DECONSTRUCTED_HIGHCHAIR_OMNI_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.14_Deconstructed_HighChair/8.14_DECONSTRUCTED_HIGHCHAIR/8.14_DECONSTRUCTED_HIGHCHAIR_NO_OFFER_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.14_Deconstructed_HighChair/8.14_DECONSTRUCTED_HIGHCHAIR_OMNI_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.16_BOPPY_NURSING_MONTH/8.16_BOPPY_NURSING_MONTH_final_files/8.16_BOPPY_NURSINGMONTH_NO_OFFER.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.16_BOPPY_NURSING_MONTH/8.16_BOPPY_NURSING_MONTH_final_files/8.16_BOPPY_NURSINGMONTH_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/6.26_BABY_SPRINT_BOPPY/6.26_SPRINT_Boppy_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.16_BOPPY_NURSING_MONTH/8.16_BOPPY_NURSINGMONTH.html",
+		"/Users/BA00630/Desktop/Ana_Work/Archive_Nesta/_Master_Template_/baby_master_template.html",
+		"/Users/BA00630/Desktop/Ana_Work/BBB_OUTSTOCK/Out_of_Stock_Email.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/sort_names.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/flexbox.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/BOOTCAMP/photo_gallery.html",
+		"/Users/BA00630/Desktop/Ana_Work/7.09 Kickoff/9.05 Nursery TrendAnimal/9.05_NURSERY_TREND_ANIMAL.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.25 Kickoff/8.20 PZ_ProductSpotlight/8.20_BABY_PZ_PRODUCTSPOTLIGHT.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.18 Kickoff/8.14_Deconstructed_HighChair/8.14_DECONSTRUCTED_HIGHCHAIR_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/7.01 Kickoff/8.26 ToddlerFeeding_OXO/8.26 ToddlerFeeding_OXO_OMNI.html",
+		"/Users/BA00630/Desktop/BABY_US/TWO_PRODS_RIGHT_LEFT.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.25 Kickoff/8.20 PZ_ProductSpotlight/TEST.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.10 Kickoff/8.7_DECONSTRUCTED_BREASTPUMPS/8.7_DECONSTRUCTED_BREASTPUMPS_R2.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/flexbox3.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/flexbox2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.19_BABY_GRACO_FLOORTABLE_COUPON_TEST/7.19_BABY_GRACO_FLOORTABLE_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/BABY_TEMPL_INCLUDE_FILES/Baby_Template/Baby_US_IncludeTemplate_NoBanner_201903.htm",
+		"/Users/BA00630/Desktop/Ana_Work/6.10 Kickoff/8.7_DECONSTRUCTED_BREASTPUMPS/8.7_BABY_DECONSTRUCTED_BREASTPUMPS_final_files_APT/8.7_DECONSTRUCTED_BREASTPUMPS.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/BANNER_ADZERK/BABY_US_ADZERK_CODE/baby_US_NEW_ADZERK.html",
+		"/Users/BA00630/Desktop/Banner_WHY_SHOP_WITH_US_FinalCreative/banner_WSWU_template.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_CONTROL_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT/7.30_BABY_PERSONALIZED_PRODUCT_TEST_B.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT/7.30_BABY_PERSONALIZED_PRODUCT_TEST_A.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT/7.30_BABY_PERSONALIZED_PRODUCT_CONTROL.html",
+		"/Users/BA00630/Downloads/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT (1)/7.30_BABY_PERSONALIZED_PRODUCT_TEST_B.html",
+		"/Users/BA00630/Downloads/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT (1)/7.30_BABY_PERSONALIZED_PRODUCT_TEST_A.html",
+		"/Users/BA00630/Downloads/7.30_BABY_PERSONALIZED_PRODUCT_final_files_APT (1)/7.30_BABY_PERSONALIZED_PRODUCT_CONTROL.html",
+		"/Users/BA00630/Desktop/Ana_Work/2_FEB_2019/2.3 Kickoff/4.13_BABY_MOTHERSDAY_PZ/4.13_BABY_MOTHERSDAY_PZ_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_OMNI_R3_updated.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.25 Kickoff/8.21 CleverStrollers/8.21_CLEVER_STROLLER.html",
+		"/Users/BA00630/Desktop/Ana_Work/3_MARCH_2019/3.17 Kickoff/5.20_BABY_CAR_TRAVEL_SOLUTION/5.20_BABY_CAR_TRAVEL_SOLUTIONS_OMNI_updated.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_final_files_APT/7.29_BABY_NANIT_OMNI_R3_updated.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_final_files_APT/7.29_BABY_NANIT_NO_OFFER.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_NO_OFFER.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_final_files_APT/7.29_BABY_NANIT_R3_rev.html",
+		"/Users/BA00630/Desktop/Ana_Work/BABY_TEMPL_INCLUDE_FILES/Baby_Template/Baby_US_IncludeTemplate_OmniBanner_201903.htm",
+		"/Users/BA00630/Desktop/Ana_Work/4_APRIL_2019/4.8 Kickoff/6.4_BABY_CAN_TOP_SUMMER_ITEMS/6.4_BABY_CAN_TOP_SUMMER_ITEMS_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV_COUPON_TEST/7.11_SMART_INNOVATIONS_OMNI.html",
+		"/Users/BA00630/Desktop/BABY_CANADA/BBB_archive/WorkFolder_CA/BBBY_CA_EmailNAME_INITIAL.html",
+		"/Users/BA00630/Desktop/BABY_CANADA/BABY_CAN_Template_header_footer_JUNE2019.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_CONTROL.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.31_BABY_TRAVELING_WITH/7.31_BABY_TRAVELING_WITH_Baby.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.31_BABY_TRAVELING_WITH/7.31_BABY_TRAVEL_WITH_BABY_final_files_APT/7.31_BABY_TRAVELING_WITH_Baby.html",
+		"/Users/BA00630/Library/Application Support/Sublime Text 3/Packages/User/new_adzerk_banner.sublime-snippet",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_TEST_B.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_TEST_A.html",
+		"/Volumes/BuybuyBaby/Nesta EMAILS/_Master_Template_/bbb_9002_bbb_version_r6_09192018.html",
+		"/Users/BA00630/Desktop/Banner_WHY_SHOP_WITH_US_FinalCreative/banner_US_WSWU_final/banner_WSWU_template.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.25 Kickoff/8.21 CleverStrollers/8.21_CleverStroller_Accessories.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.19_BABY_GRACO_FLOORTABLE_COUPON_TEST/7.19_BABY_GRACO_FLOORTABLE_final_files_APT/7.19_BABY_GRACO_FLOORTABLE_OMNI_R2.html",
+		"/Users/BA00630/Desktop/HANDBOOKS/defining_grid.html",
+		"/Users/BA00630/Desktop/Ana_Work/Refranchise_Emails/NURSERY_FINDS/NurseryFinds Under_TK_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/Refranchise_Emails/NURSERY_FINDS/7.11_SMART_INNOVATIONS_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/98M SavingCenterFiller/98M SavingCenterFiller_fRevised_files/10.14_Generic_Clearance_OMNI_REVISED.htm",
+		"/Users/BA00630/Desktop/Ana_Work/98M SavingCenterFiller/98M SavingCenterFiller_fRevised_files/10.14_Generic_Clearance_NO_OFFER_REVISED.htm",
+		"/Users/BA00630/Downloads/7.19_BABY_GRACO_FLOORTABLE_final_files_APT/7.19_BABY_GRACO_FLOORTABLE_OMNI_R2.html",
+		"/Users/BA00630/Downloads/10.14_Generic_Clearance_NO_OFFER.htm",
+		"/Users/BA00630/Desktop/BANNERS_BANK/index.html",
+		"/Users/BA00630/Downloads/07.10.19 BABY Small Spaces Nursery_APT/07.10.19 BABY Small Spaces Nursery_llama.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/Baby_US_MyOffer_Omni_20offOne.htm",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.17_BABY_WHATS_NEW_JULY/7.17_WHATS_NEW_JULY_OMNI_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.29_BABY_NANIT/7.29_BABY_NANIT_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.17_BABY_WHATS_NEW_JULY/7.17_WHATS_NEW_JULY_final_files_APT/7.17_WHATS_NEW_JULY_NO_OFFER_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.17_BABY_WHATS_NEW_JULY/7.17_WHATS_NEW_JUNE_R3.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/BANNER_ADZERK/CANADA_ADZERK/BABY_CAN_Adzerk_bnr.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/BANNER_ADZERK/baby_US_NEW_ADZERK.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/BANNER_ADZERK/banner_adzerk_template.html",
+		"/Users/BA00630/Desktop/STUFF/JS/count.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT_R2.html",
+		"/Users/BA00630/Desktop/BABY_CANADA/BBB_archive/WorkFolder_CA/BBBY_CA_EmailNAME.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.17_BABY_WHATS_NEW_JULY/7.17_WHATS_NEW_JUNE_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/7.09_BANNER_NURSING_FEEDING_EVENT/7.09_BABY_NURSING_FEEDING_BANNER_final_files/7.09_Baby_NursingFeedingEvent_Banner_.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.07 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_SKIPHOP_DIAPERPAIL_OMNI_R2.html",
+		"/Users/BA00630/Library/Application Support/Sublime Text 3/Packages/User/span_weight.sublime-snippet",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV_COUPON_TEST/7.11_BABY_US_SMART_INNOVATIONS_final_files_APT/7.11_SMART_INNOVATIONS_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV_COUPON_TEST/7.11_BABY_US_SMART_INNOVATIONS_final_files_APT/7.11_SMART_INNOVATIONS_NO_OFFER.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.07 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_US_SKIPHOP_DIAPER_PAIL_final_files/7.03_BABY_SKIPHOP_DIAPERPAIL_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.07 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_US_SKIPHOP_DIAPER_PAIL_final_files/7.03_BABY_SKIPHOP_DIAPERPAIL_NO_OFFER_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.07 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_US_SKIPHOP_DIAPER_PAIL_final_files/7.03_BABY_SKIPHOP_DIAPERPAIL_IN_STORE_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.07 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_US_SKIPHOP_DIAPER_PAIL_final_files/7.03_BABY_SKIPHOP_DIAPERPAIL_DOUBLE_OFFER_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/6.03 Kickoff/7.30_BABY_PERSONALIZED_PRODUCT/7.30_BABY_PERSONALIZED_PRODUCT.html",
+		"/Users/BA00630/Desktop/BABY_US/baby_US_master_template_2019_New_Coupons.html",
+		"/Users/BA00630/Desktop/Ana_Work/4_APRIL_2019/4.8 Kickoff/6.5_BABY_NURSERY_POPS_COLOR/6.5_BABY_NURSERY_POPS_COLOR.html",
+		"/Users/BA00630/Library/Application Support/Sublime Text 3/Packages/User/img_tag.sublime-snippet",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV/7.11_SMART_INNOVATIONS_OMNI.html",
+		"/Users/BA00630/Desktop/BABY_US/BABY_US_Template_header_footer.html",
+		"/Users/BA00630/Desktop/BABY_US/baby_US_master_template_2019.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV/7.11_BABY_US_SMART_INNOVATIONS_final_files_APT/7.11_SMART_INNOVATIONS_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.11_SMART_INNOV/7.11_BABY_US_SMART_INNOVATIONS_final_files_APT/7.11_SMART_INNOVATIONS_NO_OFFER.html",
+		"/Users/BA00630/Downloads/BABY_US_20190618_omni_concepts FINAL FILES/SPECIAL PROJECT_July Creative Coupon Concept ALL_BANNERS.html",
+		"/Users/BA00630/Desktop/Ana_Work/1_JAN_2019/1.27 Kickoff/4.10 Nursery Inspo/4.10_Nursery_Inspo_NO_OFFER_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/baby_US_master_template_2019_ALL_NEW_COUPONS.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/Baby_US_MyOffer_Omni_20offOne_TEAL_TEST1.htm",
+		"/Users/BA00630/Desktop/Ana_Work/5.05 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_SKIPHOP_DIAPERPAIL_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.05 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_US_SKIPHOP_DIAPER_PAIL_final_files/7.03_BABY_SKIPHOP_DIAPERPAIL_OMNI_R2.html",
+		"/Users/BA00630/Library/Application Support/Sublime Text 3/Packages/User/banner_WSWU.sublime-snippet",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/baby_US_master_template_2019_New_Coupons.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/Baby_US_MyOffer_Omni_20offOne_RAINBOW_TEST2.htm",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/1_2019_NEW_COUPON/Baby_US_MyOffer_Omni_20offOne_LLAMAS_TEST3.htm",
+		"/Users/BA00630/Desktop/EMAILS with banners.docx",
+		"/Users/BA00630/Desktop/BABY_US/coupons_versions.html",
+		"/Users/BA00630/Desktop/Ana_Work/2018/12.30 Kickoff/3.14_SMILE_FILLER/3.14_SMILE_FILLER_R2_20Percent_INSTOREONLY.html",
+		"/Users/BA00630/Desktop/Ana_Work/4_APRIL_2019/4.21 Kickoff/6.17_BABY_WHATSNEW_JUNE/VERS1_PRODUCTS/6.17_WHATS_NEW_JUNE_R3_vers1.html",
+		"/Users/BA00630/Desktop/Ana_Work/4_APRIL_2019/4.14 Kickoff/6.14_Furniture_Finder_Glider/6.14_BABY_FURNITURE_FINDER_GLIDER_final_files_APT/6.14_Furniture_Finder_Glider_OMNI.html",
+		"/Volumes/BuybuyBaby/Nesta EMAILS/2019/06.16.19 BABY Father's Day UGC 2/06.16.19 BABY Father's Day UGC_APT/06.16.19 BABY Father's Day UGC.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.19_BABY_GRACO_FLOORTABLE/7.19_BABY_GRACO_FLOORTABLE_OMNI_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.05 Kickoff/7.03_BABY_SKIPHOP_DIAPER_PAIL/7.03_BABY_SKIPHOP_DIAPERPAIL_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.12 Kickoff/7.12_BABY_CREDIT_CARD_Q2/7.12_BABY_CreditCard_Q2_TEST_A.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/7.17_BABY_WHATS_NEW_JULY/7.17_WHATS_NEW_JUNE.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.05 Kickoff/6.27_BABY_CAN_DAY_DEALS/6.27_BABY_CAN_DAY_DEALS_R2.html",
+		"/Users/BA00630/Desktop/Ana_Work/4.8 Kickoff/6.4_BABY_CAN_TOP_SUMMER_ITEMS/6.4_BABY_CAN_TOP_SUMMER_ITEMS_OMNI.html",
+		"/Users/BA00630/Desktop/Ana_Work/4.28 Kickoff/7.1_WTE_SQUAD/7.1_WHAT_TO_EXPECT_SUPPORT_SQUAD.html",
+		"/Users/BA00630/Desktop/Ana_Work/BANNERS/2018_BANNERS/MOBILE_OFFER_BNR/mobile_offers20off _FINAL.html",
+		"/Users/BA00630/Desktop/Ana_Work/5.19 Kickoff/6.26_BABY_SPRINT_BOPPY/6.26_BABY_SPRINT_Boppy_finalfiles_APT/6.26_SPRINT_Boppy_OMNI.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
